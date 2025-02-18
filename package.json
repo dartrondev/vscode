@@ -1,7 +1,13 @@
 {
   "name": "dartron",
+  "publisher": "dartron",
   "displayName": "Dartron",
   "description": "Dart Formatter for Artisans",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dartrondev/vscode"
+  },
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
